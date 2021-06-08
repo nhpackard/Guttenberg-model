@@ -4,6 +4,8 @@ Guttenberg, Nicholas, and Nigel Goldenfeld. "Cascade of complexity in evolving p
 
 Spatial predator-prey model with predator-prey interactions determined by evolving bit strings.
 
+Edit configuration params directly at the head of the file.
+Note:  currently configured for python 2.x
 
 ```
 ## configuration params
